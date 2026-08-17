@@ -1,0 +1,20 @@
+variables:
+  GRADLE_OPTS: "-Dorg.gradle.daemon=false"
+  http_proxy: http://193.49.200.22:3128
+  https_proxy: http://193.49.200.22:3128
+  HTTP_PROXY: http://193.49.200.22:3128
+  HTTPS_PROXY: http://193.49.200.22:3128
+
+stages:
+  - pages
+
+pages:
+  stage: pages
+  script:
+    - mkdir -p public                 
+  artifacts:
+    paths:
+      - public              
+  only:
+    - master                       
+

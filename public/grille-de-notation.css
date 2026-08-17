@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif; margin: 20px; 
+}
+
+table { 
+    width: 100%; border-collapse: collapse; margin-bottom: 20px; 
+}
+
+th, td { 
+    border: 1px solid #ddd; text-align: left; padding: 8px; 
+}
+
+th { 
+    background-color: #f4f4f4; 
+}
+
+.fullvert {
+    background-color: #04631a; color: #d4edda; 
+}
+
+.vert {
+    background-color: #d4edda; color: #155724;
+}
+
+.orange { 
+    background-color: #fff3cd; color: #856404; 
+}
+
+.rouge { 
+    background-color: #f8d7da; color: #721c24; 
+}

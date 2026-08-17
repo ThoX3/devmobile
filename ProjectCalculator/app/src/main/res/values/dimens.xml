@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_medium" />
+    <dimen name="margin_small" />
+    <dimen name="margin_large" />
+    <dimen name="padding_small" />
+    <dimen name="margin_medium" />
+    <dimen name="text_large" />
+    <dimen name="margin_horizontal" />
+    <dimen name="default_padding" />
+</resources>

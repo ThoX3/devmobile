@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Máy Tính</string>
+    <string name="classic">Cổ điển</string>
+    <string name="calorie">Calo</string>
+    <string name="Meats">Thịt</string>
+    <string name="Eggs">Trứng</string>
+    <string name="Vegetables">Rau</string>
+    <string name="Fruits">Trái Cây</string>
+    <string name="Starchy_foods">Có bột </string>
+    <string name="operations">Phép Toán</string>
+    <string name="DEL">XÓA</string>
+</resources>

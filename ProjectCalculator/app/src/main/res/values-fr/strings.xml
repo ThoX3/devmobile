@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="classic">Classique</string>
+    <string name="calorie">Calorie</string>
+    <string name="Meats">Viandes</string>
+    <string name="Eggs">Oeufs</string>
+    <string name="Vegetables">Légumes</string>
+    <string name="Fruits">Fruits</string>
+    <string name="Starchy_foods">Féculents</string>
+    <string name="operations">Opérations</string>
+    <string name="DEL">SUPPR</string>
+</resources>

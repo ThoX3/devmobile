@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="classic">Classic</string>
+    <string name="calorie">Calorie</string>
+    <string name="Meats">Meats</string>
+    <string name="Eggs">Eggs</string>
+    <string name="Vegetables">Vegetables</string>
+    <string name="Fruits">Fruits</string>
+    <string name="Starchy_foods">Starchy foods</string>
+    <string name="operations">Operations</string>
+    <string name="DEL">DEL</string>
+</resources>
